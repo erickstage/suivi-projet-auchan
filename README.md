@@ -23,5 +23,5 @@ faire **npm serve** ou **npm s**
   
   D’un autre côté, il y a le dossier **components** qui contiennent les composants qui vont apporter de l’information ou un évènement pour que le composant **page** l’affiche. 
   
-De plus avec la création du dossier **service**, le but de celui-ci est de nous apporter l’information à chaque fois qu’on la demande.  Dans le dossier "entités", on a créé notre interface avec les caractéristiques que doivent respecter nos projets.
+De plus avec la création du dossier **service**, le but de celui-ci est de nous apporter l’information à chaque fois qu’on la demande.  Dans le dossier **entités**, on a créé notre interface avec les caractéristiques que doivent respecter nos projets.
 
