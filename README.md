@@ -1,9 +1,9 @@
-# L'objectif de l'application 
+# Descriptif de l'application 
 
 C'est une application de gestion projet du service partenaire entre les differentes equipes
-1 Ouverture et fermeture des Magasin.
-2 Run-Export.
-3 Service Projet et Franchise 
+1.  Ouverture et fermeture des Magasin.
+2.  Run-Export.
+3.  Service Projet et Franchise 
 
 # Recuperation du repository 
 
